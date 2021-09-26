@@ -1,0 +1,17 @@
+.team-area{
+    background-color: rgba(187, 179, 73, 0.534);
+    /* display: grid(1rf 3fr); */
+    margin: 5px;
+}
+.team-area img{
+    width: 120px;
+    height: 120px;
+    border-radius: 25px;
+}
+.btn-regular{
+    background-color: goldenrod;
+    border: 1px solid lightgrey;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}

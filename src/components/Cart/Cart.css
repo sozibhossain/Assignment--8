@@ -1,0 +1,12 @@
+.cart-area{
+    text-align: center;
+    background-color: rgba(152, 204, 68, 0.637);
+    padding: 50px;
+    margin-top: 10px;
+}
+
+.button-regular{
+    background-color: darkolivegreen;
+    padding: 5px;
+    width: 150px;
+}
